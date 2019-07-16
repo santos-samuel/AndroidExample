@@ -1,12 +1,10 @@
 package com.example.example;
 
 import android.os.Bundle;
+import android.support.v4.app.ListFragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-
-import androidx.fragment.app.Fragment;
-import androidx.fragment.app.ListFragment;
 
 public class Fragment1 extends ListFragment {
 
